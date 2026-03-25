@@ -1,4 +1,4 @@
-#Tupane | Plan Now. Pay Later. Together.
+# Tupane | Plan Now. Pay Later. Together.
 
 Welcome to the official engineering hub for **Tupane**. We are building the next generation of financial coordination for Africa, starting with a transparent, community-driven Buy Now, Pay Later (BNPL) ecosystem.
 
@@ -7,7 +7,7 @@ The name **Tupane** reflects our core mission: *collaboration*. We provide a sea
 
 ---
 
-### 🛠 Our Tech Stack
+### Our Tech Stack
 We prioritize performance, security, and developer experience (DX).
 * **Backend:** Python (Django / Ninja API) & Go for high-concurrency transaction processing.
 * **Infrastructure:** AWS (S3, CloudFront, Lambda) managed via Infrastructure as Code.
